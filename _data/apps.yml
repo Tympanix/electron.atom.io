@@ -1487,3 +1487,16 @@
     - "tools"
   license: "MIT"
   icon: "ubauth.png"
+-
+  name: "PhoneGap"
+  description: "The open source framework that gets you building amazing mobile apps using web technology"
+  website: "http://phonegap.com/products/#desktop-app-section"
+  repository: "https://github.com/phonegap/phonegap-app-desktop"
+  keywords:
+    - "mobile"
+    - "iOS"
+    - "Android"
+    - "developer"
+    - "tools"
+  license: "ALv2"
+  icon: "phonegap.svg"
